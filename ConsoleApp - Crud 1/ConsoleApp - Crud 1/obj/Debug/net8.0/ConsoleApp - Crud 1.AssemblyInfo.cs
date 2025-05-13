@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp - Crud 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e844f2b2934ec06caa74952dfbe626d54e59b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp - Crud 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp - Crud 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
